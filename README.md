@@ -9,7 +9,7 @@ This mods allow to pick any mutation at character creation. ( Even debug mutatio
 **How to Use**
 
 - Make New world
-- Chose `Extended Freeform`mod
+- Chose `Extended Freeform`mod under `Balance`tab
 - Make new Character
 - (optional) choose Freeform point system
 - All traits are available
