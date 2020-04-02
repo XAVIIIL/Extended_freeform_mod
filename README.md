@@ -15,6 +15,7 @@ This mods allow to pick any mutation at character creation. ( Even debug mutatio
 - All traits are available
 
 **Word of Caution**
+
 This mod does not cover mutation added by other mods
 It will conflict with mods that also edit vanilla mutation
 Allowing every mutation at character creation makes the `Trait`menu very cluttered
