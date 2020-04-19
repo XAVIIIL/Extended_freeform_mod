@@ -1,6 +1,13 @@
 [
   {
     "type": "mutation",
+    "id": "PROF_HELI_PILOT",
+    "name": { "str": "Helicopter Pilot" },
+    "copy-from": "PROF_HELI_PILOT",
+    "starting_trait": true
+  },
+  {
+    "type": "mutation",
     "id": "BIOLUM1",
     "name": { "str": "Weak Photophore" },
     "copy-from": "BIOLUM1",
