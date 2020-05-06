@@ -1,5 +1,5 @@
 # Extended_freeform_mod
-This mods allow to pick any mutation at character creation. ( Even debug mutations )
+This mod allows to pick any mutation at character creation. ( Even debug mutations )
 
 **How to Install**
 
@@ -16,7 +16,7 @@ This mods allow to pick any mutation at character creation. ( Even debug mutatio
 
 **Words of Caution**
 
-- This mod does not cover mutation added by other mods
-- It will conflict with mods that also edit vanilla mutation
+- This mod does not cover mutations added by other mods
+- It might conflict with mods that also edit vanilla mutations
 - Allowing every mutation at character creation makes the `Trait` menu very cluttered
 - Some profession trait do nothing but you can still take them
